@@ -1,0 +1,12 @@
+#id1{
+    text-align: left;
+    font-size: 18px;
+    color: rgb(152, 187, 199);
+}
+.center{
+    text-align: center;
+}
+
+#dataInput , h1 {
+    text-align:center;
+}

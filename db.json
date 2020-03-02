@@ -1,0 +1,20 @@
+{
+  "lesson": [
+    {
+      "content": "Bài 0 - CSS Course Introduction",
+      "id": 1
+    },
+    {
+      "content": "Bài 1 - CSS Syntax",
+      "id": 2
+    },
+    {
+      "content": "Bài 2 - CSS selector (Part 1)",
+      "id": 3
+    },
+    {
+      "content": "Bài 3 - Colors in CSS",
+      "id": 4
+    }
+  ]
+}
