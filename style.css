@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+/* import { library } from '@fortawesome/fontawesome-svg-core';
+import { fas } from '@fortawesome/free-solid-svg-icons';
+library.add(fas); */
+
+
 #id1{
     text-align: left;
     font-size: 18px;
@@ -9,9 +15,15 @@
 
 #dataInput {
     text-align:center;
-
+    font-family: 'Pacifico';
+    border: 1px solid rgb(1, 2, 12);
 }
- h1 {
+
+h1 {
      text-align: center;
      text-shadow: 1px 1px rgb(98, 109, 109);
- }
+}
+
+#out{
+    font-family: 'Pacifico';
+}

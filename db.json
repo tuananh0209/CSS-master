@@ -23,6 +23,62 @@
     {
       "content": "Bài 5 - 3 cách chèn CSS",
       "id": 6
+    },
+    {
+      "content": "Bài 6 - Custom fonts",
+      "id": 7
+    },
+    {
+      "content": "Bài 7 - Live server (Giúp code CSS nhanh hơn)",
+      "id": 8
+    },
+    {
+      "content": "Bài 8 - Padding",
+      "id": 9
+    },
+    {
+      "content": "Bài 9 - Margin",
+      "id": 10
+    },
+    {
+      "content": "Bài 10 - Border",
+      "id": 11
+    },
+    {
+      "content": "Bài 11 - Background color",
+      "id": 12
+    },
+    {
+      "content": "Bài 12 - Background image",
+      "id": 13
+    },
+    {
+      "content": "Bài 13 - Icons",
+      "id": 14
+    },
+    {
+      "content": "Bài 14 - Styling links",
+      "id": 15
+    },
+    {
+      "content": "Bài 15 - Lists & Tables",
+      "id": 16
+    },
+    {
+      "content": "Bài 16 - Inline vs. block",
+      "id": 17
+    },
+    {
+      "content": "Bài 17 - CSS combinators",
+      "id": 18
+    },
+    {
+      "content": "Bài 18 - pseudo class & pseudo element",
+      "id": 19
+    },
+    {
+      "content": "Bài 19 - Flexbox (part 1)",
+      "id": 20
     }
   ]
 }

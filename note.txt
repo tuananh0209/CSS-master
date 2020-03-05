@@ -1,0 +1,24 @@
+/*
+background
+
+Background-image : url
+Background-repeat : repeat-x , repeat-y;
+background-size : % |contain | cover ...
+background-position : x,y,center
+background-attachment : scrollx | fixed
+*/
+
+link 
+a:link 
+a:active
+a:visited
+a:hover
+
+Selector
+~ > + " "
+
+flexbox
+display : flex;
+flex-disrection : row
+justify-content:
+align-content
